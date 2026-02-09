@@ -271,7 +271,7 @@
 
     <div class="hero">
       <div class="heroCard">
-        <div class="kicker">TURNIEJ SZKOLNY / PROMOCJA ZSP</div>
+        <div class="kicker">TURNIEJ SZKOLNY / DNI OTWARTE ZSP</div>
         <h1 class="h1">I Turniej E-sportowy — CS 1.6</h1>
         <p class="sub">
           Spotykamy się w ZSP im. Dezyderego Chłapowskiego w Witkowie.
@@ -279,7 +279,7 @@
         </p>
 
         <div class="badges">
-          <div class="badge"><b>Data:</b> 19.03.2026</div>
+          <div class="badge"><b>Data:</b> 18-19.03.2026</div>
           <div class="badge"><b>Start:</b> 9:00</div>
           <div class="badge"><b>Miejsce:</b> sala gimnastyczna</div>
           <div class="badge"><b>Adres:</b> Warszawska 29, 62-230 Witkowo</div>
@@ -290,13 +290,13 @@
           <a class="btn" href="#harmonogram">Zobacz harmonogram</a>
         </div>
 
-        <p class="note" style="margin-top:14px">
+        <!-- <p class="note" style="margin-top:14px">
           *W MVP możesz podpiąć link do formularza Google / prostego formularza w Laravelu.
-        </p>
+        </p> -->
       </div>
 
       <div class="poster">
-        <img src="/assets/plakat.png" alt="Plakat turnieju" />
+        <img src="/assets/plakat2.png" alt="Plakat turnieju" />
       </div>
     </div>
 
@@ -344,14 +344,21 @@
       <article class="frameBox">
         <div class="frameHeader">
           <h3 class="frameTitle">Nagrody / wyróżnienia</h3>
-        <img class="frameBg" src="/assets/frame-orange.png" alt="" />
+          <img class="frameBg" src="/assets/frame-orange.png" alt="" />
         </div>
         <div class="content">
-          <p class="frameText">W tej sekcji wpiszesz finalnie sponsorów i listę nagród. Na start: placeholder.</p>
+          <p class="frameText">
+            Sponsorzy:
+            ZSP Witkowo
+            Rada Radziców ZSP Witkowo
+            Starostwo Powiatowe Gniezno
+            Gmina Witkowo
+          </p>
           <ul class="list">
-            <li>Puchary / medale</li>
+            <li>Medale dla kazdego gracza za 1, 2 i 3 miejsce</li>
+            <li>Puchar przechodzni dla najlepszej drużyny</li>
             <li>Upominki rzeczowe (sponsorzy)</li>
-            <li>Dyplomy</li>
+            <li>Dyplomy za 1, 2 i 3 miejsce i za udział w turnieju</li>
           </ul>
         </div>
       </article>
@@ -367,20 +374,40 @@
     <div class="split">
       <article id="harmonogram" class="frameBox anchor" style="min-height:260px;">
         <div class="frameHeader">
-          <h3 class="frameTitle">Harmonogram (MVP)</h3>
+          <h3 class="frameTitle">Harmonogram</h3>
         <img class="frameBg" src="/assets/frame-blue.png" alt="" />
         </div>
         <div class="content">
           <p class="frameText">
-            Tu wrzucasz finalne godziny. Na start wystarczy ogólny plan, a później rozbudujesz o drabinkę.
+            Ostateczny Harmonogram bedzie dostępny po potwierdzeniu przyjazdu przez szkoły
+          </p>
+          <p class="frameText">
+            18.03.2026
           </p>
           <ul class="list">
-            <li>09:00 — start / odprawa</li>
-            <li>09:30 — faza grupowa</li>
-            <li>12:30 — przerwa</li>
+            <li>09:00 — Przyjazd SP Niechanowo</li>
+            <li>09:10 — start / odprawa</li>
+            <li>09:30 — faza grupowa / przedstawienie kierunków kształcenia</li>
+            <li>11:00 — Przyjazd SP Powidź</li>
+            <li>11:10 — start / odprawa</li>
+            <li>11:30 — faza grupowa / przedstawienie kierunków kształcenia</li>
+            <li>13:00 — Przyjazd SP Mielżyn</li>
+            <li>13:10 — start / odprawa</li>
+            <li>13:30 — faza grupowa / przedstawienie kierunków kształcenia</li>
+          </ul>
+          <p class="frameText">
+            18.03.2026
+          </p>
+          <ul class="list">
+            <li>09:00 — Przyjazd SP1</li>
+            <li>09:10 — start / odprawa</li>
+            <li>09:30 — faza grupowa / przedstawienie kierunków kształcenia</li>
+            <li>11:00 — Przyjazd SP2</li>
+            <li>11:10 — start / odprawa</li>
+            <li>11:30 — faza grupowa / przedstawienie kierunków kształcenia</li>
             <li>13:00 — playoffy</li>
-            <li>15:30 — finał</li>
-            <li>16:15 — wręczenie nagród</li>
+            <li>13:30 — finał</li>
+            <li>14:00 — wręczenie nagród</li>
           </ul>
         </div>
       </article>
@@ -391,12 +418,12 @@
         <img class="frameBg" src="/assets/frame-green.png" alt="" />
         </div>
         <div class="content">
-          <p class="frameText">W MVP pokaż tylko najważniejsze punkty, pełny regulamin jako PDF później.</p>
+          <!-- <p class="frameText">W MVP pokaż tylko najważniejsze punkty, pełny regulamin jako PDF później.</p> -->
           <ul class="list">
             <li>Fair play + kultura</li>
             <li>Zakaz cheatów / zakaz modyfikacji</li>
             <li>Decyzja sędziego ostateczna</li>
-            <li>Spóźnienia = walkower (ustal limit)</li>
+            <li>Spóźnienia = walkower (5min)</li>
           </ul>
         </div>
       </article>
@@ -419,7 +446,7 @@
         <img class="frameBg" src="/assets/frame-orange.png" alt="" />
         </div>
         <div class="content">
-          <p class="frameText">W MVP możesz wrzucić listę zgłoszonych ekip „na sztywno” lub z bazy.</p>
+          <!-- <p class="frameText">W MVP możesz wrzucić listę zgłoszonych ekip „na sztywno” lub z bazy.</p> -->
           <ul class="list">
             <li>Team #1 — (placeholder)</li>
             <li>Team #2 — (placeholder)</li>
@@ -435,12 +462,12 @@
         <img class="frameBg" src="/assets/frame-blue.png" alt="" />
         </div>
         <div class="content">
-          <p class="frameText">Opcjonalnie: grafiki frakcji (Twoje PNG terrorysta/antyterrorysta).</p>
+          <!-- <p class="frameText">Opcjonalnie: grafiki frakcji (Twoje PNG terrorysta/antyterrorysta).</p> -->
           <div style="display:flex; gap:12px; flex-wrap:wrap; align-items:flex-end; margin-top:12px;">
             <img src="/assets/terrorysta.png" alt="Terrorysta" style="width:120px; height:auto; filter: drop-shadow(0 10px 20px rgba(0,0,0,.45));" />
             <img src="/assets/antyterrorysta.png" alt="Antyterrorysta" style="width:120px; height:auto; filter: drop-shadow(0 10px 20px rgba(0,0,0,.45));" />
           </div>
-          <p class="note" style="margin-top:10px;">*Jeśli nie używasz tych PNG, usuń dwa obrazki.</p>
+          <!-- <p class="note" style="margin-top:10px;">*Jeśli nie używasz tych PNG, usuń dwa obrazki.</p> -->
         </div>
       </article>
     </div>
@@ -459,7 +486,8 @@
         </div>
       <div class="content">
         <p class="frameText">
-          MVP: wstaw tutaj mail i/lub przycisk do formularza. Później podepniesz własny formularz w Laravelu.
+          UWAGA! NIE MA LIMITU DRUŻYN NA SZKOŁE.<br/>
+          Każda szkoła może zglosić tyle drużyn ilu ma uczniów
         </p>
 
         <div class="badges" style="margin-top:14px;">
@@ -472,9 +500,9 @@
           <a class="btn" href="#info">Wróć do góry</a>
         </div>
 
-        <p class="note" style="margin-top:12px;">
+        <!-- <p class="note" style="margin-top:12px;">
           Tip: jak tylko postawisz domenę, dodaj rekordy SPF/DKIM dla maila — inaczej zgłoszenia będą wpadać do spamu.
-        </p>
+        </p> -->
       </div>
     </article>
   </section>
@@ -482,7 +510,7 @@
   <footer class="wrap">
     <div class="mini">
       <div>© {{ date('Y') }} ZSP Witkowo — I Turniej e-sportowy</div>
-      <div class="muted">MVP: Laravel + Blade • Docelowo: panel turnieju + ranking live (Socket.IO)</div>
+      <!-- <div class="muted">MVP: Laravel + Blade • Docelowo: panel turnieju + ranking live (Socket.IO)</div> -->
     </div>
   </footer>
 

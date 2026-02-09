@@ -274,8 +274,9 @@
         <div class="kicker">TURNIEJ SZKOLNY / DNI OTWARTE ZSP</div>
         <h1 class="h1">I Turniej E-sportowy — CS 1.6</h1>
         <p class="sub">
-          Spotykamy się w ZSP im. Dezyderego Chłapowskiego w Witkowie.
-          Gramy na miejscu, w klimacie LAN. Wpadaj kibicować albo dołączyć do rozgrywek.
+          Spotykamy się w ZSP im. Dezyderego Chłapowskiego w Witkowie.<br>
+          Gramy na miejscu, w klimacie LAN.<br>
+          Wpadaj kibicować albo dołączyć do rozgrywek.
         </p>
 
         <div class="badges">
@@ -332,9 +333,10 @@
         <img class="frameBg" src="/assets/frame-blue.png" alt="" />
         </div>
         <div class="content">
-          <p class="frameText">Turniej, oprawa, identyfikatory, stanowiska i ranking live (docelowo Socket.IO).</p>
+          <p class="frameText">Turniej, oprawa, identyfikatory, stanowiska i ranking live.</p>
           <ul class="list">
-            <li>System turniejowy (wersja MVP)</li>
+            <li>Turniej na miarę GamingKings</li>
+            <li>System turniejowy</li>
             <li>Wyniki na żywo</li>
             <li>Materiały promocyjne ZSP</li>
           </ul>
@@ -396,7 +398,7 @@
             <li>13:30 — faza grupowa / przedstawienie kierunków kształcenia</li>
           </ul>
           <p class="frameText">
-            18.03.2026
+            19.03.2026
           </p>
           <ul class="list">
             <li>09:00 — Przyjazd SP1</li>

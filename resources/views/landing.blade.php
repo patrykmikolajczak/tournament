@@ -508,8 +508,8 @@
           Sieci komputerowe, systemy operacyjne, programowanie i administracja IT.
         </p>
         <ul class="list">
-          <li>INF.02 – Administracja i eksploatacja systemów</li>
-          <li>INF.03 – Tworzenie i administrowanie stronami i aplikacjami</li>
+          <li>INF.02 – Administracja i eksploatacja systemów komputerowych, urządzeń peryferyjnych i lokalnych sieci komputerowych</li>
+          <li>INF.03 – Tworzenie i administrowanie stronami i aplikacjami internetowymi oraz bazami danych</li>
         </ul>
       </div>
     </article>
@@ -526,8 +526,8 @@
           Moda, projektowanie ubioru, stylizacja i kreowanie wizerunku.
         </p>
         <ul class="list">
-          <li>MOD.03 – Projektowanie i stylizacja ubioru</li>
-          <li>MOD.15 – Wytwarzanie wyrobów odzieżowych</li>
+          <li>MOD.03 – Projektowanie i wytwarzanie wyrobów odzieżowych</li>
+          <li>MOD.15 – Stylizacja ubioru i kreacja wizerunku</li>
         </ul>
       </div>
     </article>
@@ -555,7 +555,7 @@
       <img class="frameHeaderImg" src="/assets/technik-zywienia-i-uslug-gastronomicznych.png" alt="">
       <div class="frameHeader">
         <img class="frameBg" src="/assets/frame-orange.png" alt="">
-        <h3 class="frameTitle">Technik żywienia i usług gastronomicznych</h3>
+        <h3 class="frameTitle">Technik żywienia<br>i usług gastronomicznych</h3>
       </div>
       <div class="content">
         <p class="frameText">
@@ -573,7 +573,7 @@
       <img class="frameHeaderImg" src="/assets/szkola-branzowa.png" alt="">
       <div class="frameHeader">
         <img class="frameBg" src="/assets/frame-green.png" alt="">
-        <h3 class="frameTitle">Szkoła branżowa I stopnia</h3>
+        <h3 class="frameTitle">Szkoła branżowa<br>I stopnia</h3>
       </div>
       <div class="content">
         <p class="frameText">

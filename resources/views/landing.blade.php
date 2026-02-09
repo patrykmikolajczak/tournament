@@ -204,6 +204,13 @@
   border-radius:14px;
 }
 
+.frameHeaderImg {
+  max-width: 100%;
+  width: 250px;
+  margin: auto;
+  display: block;
+}
+
 /* RAMKA JAKO TŁO */
 .frameBg{
   position:absolute;
@@ -258,6 +265,7 @@
         <a href="#info">Informacje</a>
         <a href="#harmonogram">Harmonogram</a>
         <a href="#zasady">Zasady</a>
+        <a href="#kierunki">Kierunki</a>
         <a href="#kontakt">Kontakt</a>
       </nav>
     </div>
@@ -478,6 +486,111 @@
       <img src="/assets/linia-zolta.png" alt="" />
     </div>
   </section>
+
+  <section id="kierunki" class="section wrap anchor">
+
+  <div class="frameHeader" style="margin-bottom:24px;">
+    <img class="frameBg" src="/assets/frame-green.png" alt="">
+    <h2 class="frameTitle" style="font-size:22px;">Nasze kierunki</h2>
+  </div>
+
+  <div class="split">
+
+    <!-- TECHNIK INFORMATYK -->
+    <article class="frameBox">
+      <img class="frameHeaderImg" src="/assets/technik-informatyk.png" alt="">
+      <div class="frameHeader">
+        <img class="frameBg" src="/assets/frame-blue.png" alt="">
+        <h3 class="frameTitle">Technik informatyk</h3>
+      </div>
+      <div class="content">
+        <p class="frameText">
+          Sieci komputerowe, systemy operacyjne, programowanie i administracja IT.
+        </p>
+        <ul class="list">
+          <li>INF.02 – Administracja i eksploatacja systemów</li>
+          <li>INF.03 – Tworzenie i administrowanie stronami i aplikacjami</li>
+        </ul>
+      </div>
+    </article>
+
+    <!-- TECHNIK STYLISTA -->
+    <article class="frameBox">
+      <img class="frameHeaderImg" src="/assets/technik-stylista.png" alt="">
+      <div class="frameHeader">
+        <img class="frameBg" src="/assets/frame-green.png" alt="">
+        <h3 class="frameTitle">Technik stylista</h3>
+      </div>
+      <div class="content">
+        <p class="frameText">
+          Moda, projektowanie ubioru, stylizacja i kreowanie wizerunku.
+        </p>
+        <ul class="list">
+          <li>MOD.03 – Projektowanie i stylizacja ubioru</li>
+          <li>MOD.15 – Wytwarzanie wyrobów odzieżowych</li>
+        </ul>
+      </div>
+    </article>
+
+    <!-- TECHNIK LOGISTYK -->
+    <article class="frameBox">
+      <img class="frameHeaderImg" src="/assets/technik-logistyk.png" alt="">
+      <div class="frameHeader">
+        <img class="frameBg" src="/assets/frame-blue.png" alt="">
+        <h3 class="frameTitle">Technik logistyk</h3>
+      </div>
+      <div class="content">
+        <p class="frameText">
+          Transport, magazynowanie, planowanie dostaw i nowoczesna logistyka.
+        </p>
+        <ul class="list">
+          <li>SPL.01 – Obsługa magazynów</li>
+          <li>SPL.04 – Organizacja transportu</li>
+        </ul>
+      </div>
+    </article>
+
+    <!-- TECHNIK ŻYWIENIA -->
+    <article class="frameBox">
+      <img class="frameHeaderImg" src="/assets/technik-zywienia-i-uslug-gastronomicznych.png" alt="">
+      <div class="frameHeader">
+        <img class="frameBg" src="/assets/frame-orange.png" alt="">
+        <h3 class="frameTitle">Technik żywienia i usług gastronomicznych</h3>
+      </div>
+      <div class="content">
+        <p class="frameText">
+          Gastronomia, dietetyka, obsługa konsumenta i organizacja usług żywieniowych.
+        </p>
+        <ul class="list">
+          <li>HGT.02 – Przygotowanie i wydawanie dań</li>
+          <li>HGT.12 – Organizacja żywienia i usług gastronomicznych</li>
+        </ul>
+      </div>
+    </article>
+
+    <!-- SZKOŁA BRANŻOWA -->
+    <article class="frameBox">
+      <img class="frameHeaderImg" src="/assets/szkola-branzowa.png" alt="">
+      <div class="frameHeader">
+        <img class="frameBg" src="/assets/frame-green.png" alt="">
+        <h3 class="frameTitle">Szkoła branżowa I stopnia</h3>
+      </div>
+      <div class="content">
+        <p class="frameText">
+          Nauka zawodu, praktyczne umiejętności i szybkie wejście na rynek pracy.
+        </p>
+        <ul class="list">
+          <li>Zajęcia praktyczne</li>
+          <li>Współpraca z pracodawcami</li>
+          <li>Przygotowanie do zawodu</li>
+        </ul>
+      </div>
+    </article>
+
+  </div>
+
+</section>
+
 
   <!-- CONTACT -->
   <section id="kontakt" class="section wrap anchor">
